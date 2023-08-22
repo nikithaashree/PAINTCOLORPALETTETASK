@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PAINT_COLOUR_PALETTE_TASK_31.07.23", "PAINT_COLOUR_PALETTE_TASK_31.07.23\PAINT_COLOUR_PALETTE_TASK_31.07.23.csproj", "{DC74FDE2-6F89-4370-A320-C37417C9D03E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC74FDE2-6F89-4370-A320-C37417C9D03E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC74FDE2-6F89-4370-A320-C37417C9D03E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC74FDE2-6F89-4370-A320-C37417C9D03E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC74FDE2-6F89-4370-A320-C37417C9D03E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CC9554C-38D8-4475-8906-2A5E8C16F8F7}
+	EndGlobalSection
+EndGlobal
