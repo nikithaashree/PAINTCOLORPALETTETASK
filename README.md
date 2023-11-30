@@ -1,2 +1,2 @@
 # PAINTCOLORPALETTETASK
-This is a color palette task for ms paint using WPF
+This is a simple COLOR PALETTE task for MS PAINT using WPF in VISUAL STUDIO CODE
